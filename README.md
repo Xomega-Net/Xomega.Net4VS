@@ -36,4 +36,4 @@ Some questions or ideas may get converted to issues or feature requests that are
 
 ---
 
-If you tried Xomega platform and **enjoy using it**, then be sure to **add a star** :star: to this repository and help us **spread the word**! :loudspeaker:
+If you have tried the Xomega platform and **enjoy using it**, then be sure to **add a star** :star: to this repository and help us **spread the word**! :loudspeaker:
